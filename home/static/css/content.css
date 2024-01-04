@@ -1,0 +1,23 @@
+.überMich {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+}
+
+.überMichImage {
+    flex: 1; 
+}
+
+.überMichTxt {
+    flex: 1;
+    padding: 5%;
+    border-radius: 7%;
+    border-bottom-left-radius: 20%;
+    box-shadow: 0px 0px 20px 0px  rgb(180, 175, 175);
+    box-sizing:border-box;
+}
+
+img {
+    padding-left: 50%;
+}
